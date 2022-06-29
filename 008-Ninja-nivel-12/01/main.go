@@ -14,7 +14,7 @@ type canino struct {
 func main() {
 	c1 := canino{
 		nombre: "Chester",
-		edad:   perro.Edad(1),
+		edad:   perro.Edad(2),
 	}
 	fmt.Println(c1)
 }

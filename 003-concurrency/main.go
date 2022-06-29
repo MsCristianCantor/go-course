@@ -1,6 +1,6 @@
 package main
 
-import "concurrency/uc"
+import "github.com/MsCristianCantor/go-course/003-concurrency/uc"
 
 func main() {
 	// Basic example of councurrency
