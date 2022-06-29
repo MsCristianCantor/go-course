@@ -8,6 +8,7 @@ import (
 
 var wgb sync.WaitGroup
 
+// BasicCouncurrency to test concurrency
 func BasicCouncurrency() {
 	fmt.Println("OS\t\t", runtime.GOOS)
 	fmt.Println("ARCH\t\t", runtime.GOARCH)
