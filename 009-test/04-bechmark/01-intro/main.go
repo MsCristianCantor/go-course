@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MsCristianCantor/go-course/009-test/04-bechmark/01/decir"
+	"github.com/MsCristianCantor/go-course/009-test/04-bechmark/01-intro/decir"
 )
 
 func main() {
